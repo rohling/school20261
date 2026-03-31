@@ -29,12 +29,17 @@ header{
 .logo{
     margin-bottom: 10px;
 }
-
+nav a{
+    margin-right: 5px;
+}
 @media (min-width: 768px) {
-    .menu {
+    header {
         display: flex;
         justify-content: space-between;
+        padding: 20px;
+        
     }
+
     .content{
         display: grid;
         grid-template-columns: 1fr 1fr;
