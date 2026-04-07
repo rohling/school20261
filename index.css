@@ -20,6 +20,13 @@ a {
     text-decoration: none;
 }
 
+.btn{
+    background-color: #00E77F;
+    color: #fff;
+    padding: 0.5rem  1rem;
+    border-radius: 0.5rem;
+}
+
 header {
     background-color: #4d4d4d;
     color: #fff;
